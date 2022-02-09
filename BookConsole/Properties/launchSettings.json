@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BookConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "last Polo"
+    }
+  }
+}
